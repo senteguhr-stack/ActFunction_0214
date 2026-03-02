@@ -16,3 +16,8 @@ int luaspersegi(){
 void output(){
     cout << "hasilnya : " << luaspersegi();
 }
+int main(){//mulai
+
+    input();
+    output();
+} //selesai
