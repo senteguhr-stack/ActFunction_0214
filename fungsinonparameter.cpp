@@ -9,3 +9,7 @@ void input(){
     cin >> p;
     cout << "masukkan lebar : ";
     cin >> l;
+}
+int luaspersegi(){
+    return p * l;
+}
